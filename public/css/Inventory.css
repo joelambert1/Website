@@ -1,0 +1,12 @@
+
+.demos {
+  display: block;
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: red;
+}
+
+.demos img {
+  width: 100%;
+  height: auto;
+}

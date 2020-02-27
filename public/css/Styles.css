@@ -1,0 +1,85 @@
+
+body {
+  background-color: #f1fcfc;
+}
+hr {
+  background-color: white;
+  border-style: none;
+  height: 10px;
+}
+h1 {
+  text-align: center;
+  width: 200px;
+  font-size: 2.25rem;
+  /* background-color: #e7f0c3; */
+  color: #32afa9;
+  font-family: 'Dancing Script', cursive;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+h3 {
+  /* background-color: #f1f1b0; */
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.25rem;
+  color: #32afa9;
+  margin-left: 50px;
+  width: 200px;
+}
+.underline {
+  text-decoration: underline;
+}
+.bold {
+  font-weight: bold;
+}
+.project-links .bold {
+  font-style: italic;
+}
+.project-links {
+  margin-left: 55px;
+  font-size: 1.75rem;
+}
+.project-links p {
+  display: inline-block;
+  width: 45%
+}
+.project-links img {
+  width: 100%;
+}
+.project2 {
+  margin-left: 80px;
+}
+.top-container {
+  display: inline-block;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  width: 35%;
+}
+.my-info {
+}
+.background-image {
+  width: 700px;
+  height: 250px;
+  margin-left: 3rem;
+}
+.skill-list {
+  padding-left: 50px;
+  font-family: sans-serif;
+}
+ul {
+  padding: 50px;
+  background-color: #fbf4f9;
+  font-size: 1.2rem;
+}
+ul li {
+  padding: 5px;
+  background-color: #effcef;
+  font-family: 'Sriracha', cursive;
+}
+.list-info {
+  font-family: monospace;
+  font-size: 1rem;
+}
+.list-add {
+  font-size: 1rem;
+  font-family: arial;
+}
